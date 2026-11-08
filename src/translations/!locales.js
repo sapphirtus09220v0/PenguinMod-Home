@@ -26,6 +26,7 @@ import no from '../translations/no.json';
 import sk from '../translations/sk.json';
 import uk from '../translations/uk.json';
 import ja from '../translations/ja.json';
+import jaHira from '../translations/ja-hira.json';
 import fa from '../translations/fa.json';
 import nl from '../translations/nl.json';
 import ar from '../translations/ar.json';
@@ -49,6 +50,7 @@ const languages = {
     "ro": ro,                      // Romanian
     "ru": ru,                      // Russian
     "ja": ja,                      // Japanese
+    "ja-Hira": jaHira,             // Japanese Hiragana&Katakana
     "fr": fr,                      // French
     "fr-ca": frCa,                 // French (Canada)
     "de": de,                      // German
